@@ -21,7 +21,7 @@ This project involves building an ETL (Extract, Transform, Load) pipeline to pro
 
 ###  Data Extraction
 - Scrape data from webpages using requests and BeautifulSoup
-- xtract structured tables and relevant information
+- extract structured tables and relevant information
 - Handle missing or inconsistent HTML elements
 
 ###  Data Transformation
@@ -39,9 +39,9 @@ This project involves building an ETL (Extract, Transform, Load) pipeline to pro
 ###  SQL Query
 - Run SQL queries from Python
 - Validate data integrity
-- nalyze loaded data
+- analyze loaded data
 
 ###  Logging & Monitoring
 - Track progress at each ETL stage
 - Log messages for extraction, transformation, loading, and SQL execution
-- mprove debugging and pipeline maintainability
+- improve debugging and pipeline maintainability
