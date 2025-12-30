@@ -1,0 +1,35 @@
+25-Dec-30-15-30-21 : hello25-Dec-30-15-33-24 : Preliminaries complete. Initiating ETL process25-Dec-30-15-33-33 : Preliminaries complete. Initiating ETL process25-Dec-30-15-33-37 : Data extraction complete. Initiating Transformation process25-Dec-30-15-34-21 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-34-23 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-34-54 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-34-56 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-35-27 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-35-28 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-35-28 : Data transformation complete. Initiating loading process
+25-Dec-30-15-36-44 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-36-46 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-36-46 : Data transformation complete. Initiating loading process
+25-Dec-30-15-38-48 : Loadinhg into csv 
+25-Dec-30-15-38-48 : csv loaded
+25-Dec-30-15-40-39 : loading into database
+25-Dec-30-15-40-58 : loading into database
+25-Dec-30-15-41-07 : loading into database
+25-Dec-30-15-41-20 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-41-22 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-41-22 : Data transformation complete. Initiating loading process
+25-Dec-30-15-41-22 : Loadinhg into csv 
+25-Dec-30-15-41-22 : csv loaded
+25-Dec-30-15-41-22 : loading into database
+25-Dec-30-15-42-22 : Loadinhg into csv 
+25-Dec-30-15-43-42 : Preliminaries complete. Initiating ETL process
+25-Dec-30-15-43-44 : Data extraction complete. Initiating Transformation process
+25-Dec-30-15-43-44 : Data transformation complete. Initiating loading process
+25-Dec-30-15-43-44 : Loadinhg into csv 
+25-Dec-30-15-43-44 : csv loaded
+25-Dec-30-15-43-47 : loading into database
+25-Dec-30-15-43-54 : loading into database
+25-Dec-30-15-44-28 : loading into database
+25-Dec-30-15-44-28 : loaded database 
+25-Dec-30-15-47-19 : Data loaded to Database as table. Running the query
+25-Dec-30-15-47-36 : Data loaded to Database as table. Running the query
+25-Dec-30-15-47-44 : Data loaded to Database as table. Running the query
+25-Dec-30-15-47-44 : Process Complete.
